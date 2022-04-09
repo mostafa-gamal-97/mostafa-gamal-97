@@ -1,6 +1,6 @@
 -  Hi, I’m mostafa gamal hussein
 -  I’m a junior data scientist with huge passion to the field
--  I’m currently learning all sorts of courses, doing case studies, and projects.
+-  Trying to keep a constant-pace of learning new concepts in data science, doing case studies, and projects.
 -  How to reach me: (gmail: mostafa.gamalh97@gmail.com)  or (phone number: +201025267002)  
 
 <!---
