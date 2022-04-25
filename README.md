@@ -4,7 +4,6 @@
     <a href="https://www.linkedin.com/in/mostafa-gamal-87a499149"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm an electrical engineering graduate who is passionate about Data Science. I stumbled upon it in My Graduation Project and since then I have not looked back.
 Looking Forward to kick start a career in Data Science.
