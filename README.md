@@ -9,7 +9,7 @@ Looking Forward to kick start my career in Data Science.
  
 Now, I'm trying to keep constant-pace of learning new concepts in Data Science, doing Case Studies, and Projects.
 
-### <img src="https://media.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif" width="30px"> Connect with me
+### <img src="https://media.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif" width="30px"> Contact me
 
 <center>
 
