@@ -13,7 +13,7 @@ Now, I'm trying to keep constant-pace of learning new concepts in Data Science, 
 
 <center>
 
-[![Github](https://img.shields.io/static/v1?label=&message=Github&color=black&style=flat&logo=github)](https://github.com/mostafa-gamal-97)[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=mostafa.gamalh97@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mostafa.gamalh97@gmail.com)[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-gamal-s97/)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&labelColor=EA0008&message=mostafa.gamalh97@gmail.com&color=555555&style=flat&logo=gmail&logoColor=white)](mostafa.gamalh97@gmail.com)[![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=0E7FBF&&&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-gamal-s97/)
     
  
 <!---
