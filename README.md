@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there, I'm Mostafa <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="25px"></h1>
+<h1 align="center">Hello there, I'm Mostafa </h1>
 <p align="center">
    </p>
   
@@ -9,7 +9,9 @@ Looking Forward to kick start my career in Data Science.
  
 Now, I'm trying to keep constant-pace of learning new concepts in Data Science, doing Case Studies, and Projects.
 
-### <img src="https://media.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif" width="30px"> Contact me
+---
+
+Contact me
 
 <center>
 
