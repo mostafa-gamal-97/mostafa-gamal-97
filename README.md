@@ -4,9 +4,8 @@
    </p>
   
 
-I'm an electrical engineering graduate who is passionate about Data Science and Software Development. I stumbled upon it in My Graduation Project and since then I have not looked back towards a career in Electrical Power Engineering.
-
-Looking Forward to kick start my career in Software Development, and hopefully Data Science.
+I'm a Backend Engineer with 3+ years of experience in building scalable enterprise solutions.
+Adept at Building APIs, System Design, and Writing clean efficient code.
  
 
 ---
